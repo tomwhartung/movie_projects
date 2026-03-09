@@ -37,9 +37,34 @@ and ultimately actual paying customers, happy - and thereby eventually maybe mak
 
 # Ideas Applicable to Multiple or Even All Projects
 
-- I like the idea of having two versions of each video
-  - An *"Explicit"* version in which I cuss like a sailor
-  - A *"Clean"* version in which I or substitute clean words (such as *heck"* and *"gosh"* and *"shoot"*) for, or bleep out entirely, the profanity
+## Chiaroscuro
+
+This idea comes from Ari Shapiro's *"Power of Storytelling"* series of lectures on [Great Courses Plus](https://plus.thegreatcourses.com/home).
+
+The idea of Chiaroscuro comes from painting, and exhibiting areas of great contrast of light and dark.
+
+We can use this idea to show contrasts in:
+
+- Light and dark
+  - In the same take
+    - Starting with all black, or all white, and evening out the exposure to reveal what's there
+  - In the same scene
+    - Camera movement - panning
+    - Zooming in or out
+- Music
+  - quiet vs. loud
+  - harmonious vs. disharmonious
+- Plot
+  - Tense vs. calm parts
+
+## Profanity
+
+I like the idea of having two versions of each video:
+
+- An *"Explicit"* version in which I cuss like a sailor
+- A *"Clean"* version in which I or substitute clean words (such as *heck"* and *"gosh"* and *"shoot"*) for, or bleep out entirely, the profanity
+
+You know, like a hip-hop CD!
 
 # Phase 1: Nature Videos
 
