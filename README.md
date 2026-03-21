@@ -7,7 +7,7 @@ This repository contains a list of those ideas along with a big picture overview
 
 # Movie Projects
 
-This section contains the Big Picture of the Big Picture.
+This repo contains the Big Picture of the Big Picture.
 
 Putting this down in words should help:
 
