@@ -37,6 +37,16 @@ and ultimately actual paying customers, happy - and thereby eventually maybe mak
 
 # Ideas Applicable to Multiple or Even All Projects
 
+## Mix of Short and Long Form Videos
+
+Current (as of 4/30/2026) thinking is to post **twice a week** as follows:
+
+- One short-form, portrait video to the Main VLOG channel describing this week's long-form video
+- One long-form, landscape video to a more specialized "subchannel"
+
+This is of course subject to change as I think more about all this.
+Thanks for your patience!
+
 ## Chiaroscuro
 
 This idea comes from Ari Shapiro's *"Power of Storytelling"* series of lectures on [Great Courses Plus](https://plus.thegreatcourses.com/home).
