@@ -12,9 +12,14 @@ Plus, I am really into checklists these days!
 - [ ] Prefer long format, landscape movies - but note that youtube wants to also see some shorts, so we will want to do some of those too
   - [ ] 'X' indicates this movie is a long format piece, done in landscape orientation
   - [ ] 'X' indicates this movie is a short format piece, done in portrait orientation
-- [ ] Required: *All* movies *should* have some sort of **conflict** going on
-  - [ ] **CONFLICT IS KEY** to getting people to watch your movies
-  - [ ] *Obvious exceptions:* Relaxing, chill, ASMR-type movies
+- [ ] Ideas from Lesson 4, about Characters, of the Great Courses *Screenwriting 101* class:
+  - [ ] Required: *All* movies *should* have some sort of **conflict** going on
+    - [ ] **CONFLICT IS KEY** to getting people to watch your movies: "*conflict, conflict, conflict*"
+    - [ ] *Obvious exceptions:* Relaxing, chill, ASMR-type movies
+  - [ ] Recommended: Fear, Sympathy, and Empathy
+    - [ ] Fears - ideally basic fears about possible impending *physical harm* or *social isolation*
+    - [ ] Sympathy - ideally contradictory anxieties that pull one in different directions
+    - [ ] Empathy - add a soliloquy
 - [ ] Required: *All* movies *must* have a deliberate, distinct Beginning, Middle, and End
   - [ ] Preferred: especially when there is some *conflict*, end with some sort of resolution, a *victory* or some other *positive* note
     - [ ] *Exceptions:* sometimes we will want to leave the viewer unsettled, ala. Bertolt Brect, Spike Lee, etc.
